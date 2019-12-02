@@ -1,65 +1,72 @@
 
 - name: Nazareno Aguirre
   photo: naguirre.jpg
-  info: Profesor Asociado
+  info: Founder, Principal Investigator
   email: naguirre@dc.exa.unrc.edu.ar
   web: https://dc.exa.unrc.edu.ar/staff/naguirre/
   number_educ: 0
 
 - name: Marcelo Arroyo
   photo: marroyo.jpg
-  info: Profesor Asociado
+  info: Research Scientist
   email: marcelo.arroyo@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Francisco Bavera
   photo: fbavera.jpg
-  info: Profesor Adjunto
+  info: Research Scientist
   email: pancho@dc.exa.unrc.edu.ar
   web: https://dc.exa.unrc.edu.ar/staff/fbavera/
   number_educ: 0
 
 - name: Valeria Bengolea
   photo: vbengolea.jpg
-  info: Ayudante de Primera
+  info: Postdoc
   email: vbengolea@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Franco Brusatti
   photo: fbrusatti.jpg
-  info: Ayudante de Primera
+  info: Research Scientist
   email: fbrusatti@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Pablo F. Castro
   photo: pcastro.jpg
-  info: Profesor Adjunto
+  info: Principal Investigator
   email: pcastro@dc.exa.unrc.edu.ar
   web: https://pablofcastro.github.io/
   number_educ: 0
 
 - name: César Cornejo
   photo: ccornejo.jpg
-  info: Ayudante de Primera
+  info: PhD Candidate
   email: ccornejo@gmail.com
   web: https://cesarcorne.github.io
   number_educ: 0
 
+- name: Renzo Degiovanni
+  photo: rdegiovanni.jpg
+  info: Principal Investigator
+  email: renzo.degiovanni@uni.lu
+  web: https://dc.exa.unrc.edu.ar/staff/rdegiovanni/en/index.html
+  number_educ: 0
+
 - name: Simón Emmanuel Gutiérrez Brida
   photo: sgutierrez.jpg
-  info: Ayudante de Primera
+  info: Postdoc
   email: sgutierrez@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Cecilia Kilmurray
   photo: ckilmurray.jpg
-  info: Ayudante de Primera
+  info: PhD Candidate
   email: ckilmurray@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Facundo Molina
   photo: fmolina.jpg
-  info: Ayudante de Primera
+  info: PhD Candidate
   email: fmolina@dc.exa.unrc.edu.ar
   web: https://facumolina.github.io/
   number_educ: 0
@@ -78,32 +85,32 @@
 
 - name: Mariano Politano
   photo: mpolitano.jpg
-  info: Ayudante de Primera
+  info: PhD Candidate
   email: mpolitano@dc.exa.unrc.edu.ar
   web: https://mpolitano.github.io/
   number_educ: 0
 
 - name: Pablo Ponzio
   photo: defaultmember.jpg
-  info: Ayudante de Primera
+  info: Research Scientist
   email: pponzio@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Luciano Putruele
   photo: lputruele.jpg
-  info: Ayudante de Primera
+  info: PhD Candidate
   email: lputruele@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Germán Regis
   photo: gregis.jpg
-  info: Profesor Adjunto
+  info: Research Scientist
   email: gregis@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Gastón Scilingo
   photo: gscilingo.png
-  info: Ayudante de Primera
+  info: Research Scientist
   email: gaston@dc.exa.unrc.edu.ar
   web: https://dc.exa.unrc.edu.ar/staff/gaston/
   number_educ: 0
@@ -112,10 +119,4 @@
   photo: defaultmember.jpg
   info: Ayudante de Primera
   email: uva@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: Fabio Zorzán
-  photo: defaultmember.jpg
-  info: Profesor Adjunto
-  email: fzorzan@dc.exa.unrc.edu.ar
   number_educ: 0
