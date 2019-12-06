@@ -5,3 +5,5 @@ gem 'rake'
 gem 'foreman'
 gem 'thin'
 gem 'rack-contrib'
+gem 'jekyll-twitter-plugin'
+

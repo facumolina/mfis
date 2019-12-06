@@ -56,6 +56,8 @@ permalink: /
 Welcome to the Formal Methods & Software Engineering group at the [Computer Science Department](https://www.unrc.edu.ar/), [University of Río Cuarto](https://www.unrc.edu.ar/).
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mfis-logo-full-removebg-preview.png" style="width: 100px; padding-top: 20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dc-full.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logounrc.png" style="width: 210px">
 </figure>
 
