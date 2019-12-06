@@ -172,3 +172,26 @@ firstp {
   background-color: #000000;
   color: #ffffff;
 }
+
+/* customize the appearance of the group header counts */
+span.bibbase_group_count { 
+    display: none;
+}
+
+/* the group-header line */
+div.bibbase_group {
+  font-size: normal; 
+  color: #000000;
+    background-color: #E0E0E0;
+    margin: 10px 0px 0px 0px;
+}
+
+/*
+It looks like the only thing this currently controls is the "paper" label
+next to the icon corresponding to the url or url_paper field, and we want
+that label to make the link more obvious.
+~ Matt 2017-03-03
+*/
+span.bibbase_icon_text {
+  display: initial;
+}
