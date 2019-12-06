@@ -1,0 +1,56 @@
+- name: César Cornejo
+  photo: ccornejo.jpg
+  info: PhD Candidate
+  email: ccornejo@gmail.com
+  web: https://cesarcorne.github.io
+  number_educ: 0
+
+- name: Simón Emmanuel Gutiérrez Brida
+  photo: sgutierrez.jpg
+  info: Postdoc
+  email: sgutierrez@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Cecilia Kilmurray
+  photo: ckilmurray.jpg
+  info: PhD Candidate
+  email: ckilmurray@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Facundo Molina
+  photo: fmolina.jpg
+  info: PhD Candidate
+  email: fmolina@dc.exa.unrc.edu.ar
+  web: https://facumolina.github.io/
+  number_educ: 0
+
+- name: María Marta Novaira
+  photo: defaultmember.jpg
+  info: Jefe de Trabajos Prácticos
+  email: mnovaira@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Sonia Permigiani
+  photo: spermigiani.jpeg
+  info: Jefe de Trabajos Prácticos
+  email: spermigiani@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Mariano Politano
+  photo: mpolitano.jpg
+  info: PhD Candidate
+  email: mpolitano@dc.exa.unrc.edu.ar
+  web: https://mpolitano.github.io/
+  number_educ: 0
+
+- name: Luciano Putruele
+  photo: lputruele.jpg
+  info: PhD Candidate
+  email: lputruele@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Marcelo Uva
+  photo: defaultmember.jpg
+  info: Ayudante de Primera
+  email: uva@dc.exa.unrc.edu.ar
+  number_educ: 0
