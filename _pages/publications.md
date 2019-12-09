@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Publications
 
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/69/610.bib&jsonp=1&owner=none"></script>
+<script src="https://bibbase.org/show?bib=https://dblp.org/search/publ/api?q=author:Nazareno_Aguirre:|author:Pablo_F._Castro:%26format=bib&jsonp=1&owner=none"></script>
 <script>
 <!--//--><![CDATA[// ><!--
 
