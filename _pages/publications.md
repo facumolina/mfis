@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Publications
 
-<script src="https://bibbase.org/show?bib={{ site.url }}{{ site.baseurl }}/downloads/mfis-pubs.bib&jsonp=1&owner=none"></script>
+<script src="https://bibbase.org/show?bib=https://mfisdc.herokuapp.com/downloads/mfis-pubs.bib&jsonp=1&owner=none"></script>
 <script>
 <!--//--><![CDATA[// ><!--
 
