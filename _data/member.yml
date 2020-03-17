@@ -26,13 +26,13 @@
 
 - name: María Marta Novaira
   photo: defaultmember.jpg
-  info: Jefe de Trabajos Prácticos
+  info: PhD Candidate
   email: mnovaira@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Sonia Permigiani
   photo: spermigiani.jpeg
-  info: Jefe de Trabajos Prácticos
+  info: PhD Candidate
   email: spermigiani@dc.exa.unrc.edu.ar
   number_educ: 0
 
@@ -51,6 +51,6 @@
 
 - name: Marcelo Uva
   photo: defaultmember.jpg
-  info: Ayudante de Primera
+  info: PhD Candidate
   email: uva@dc.exa.unrc.edu.ar
   number_educ: 0
