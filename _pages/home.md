@@ -6,58 +6,30 @@ sitemap: false
 permalink: /
 ---
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/militancy.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/militancy3.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/from101.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/from101two.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/from103.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/maldonado2.jpg" alt="Slide 6" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/maldonado3.jpg" alt="Slide 7" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+## Welcome to the Formal Methods & Software Engineering group at [DC](http://dc.exa.unrc.edu.ar/) - [UNRC](https://www.unrc.edu.ar/).
 
-<br>
+<p>Our research goal is to contribute to how software is developed, by improving its modeling, design, construction and assessment, through the use of well-founded mechanisms for software specification and analysis. Our research interests include:
+</p>
 
-Welcome to the Formal Methods & Software Engineering group at the [Computer Science Department](https://www.unrc.edu.ar/), [University of Río Cuarto](https://www.unrc.edu.ar/).
+<ul>
+
+<li>Our work on Requirements Engineering ... </li>
+
+<li>Our work on the so-called oracle problem concentrates in developing techniques for producing formal software specifications for object oriented systems, targeting the challenge of distinguishing the desired correct behavior of software from potentially incorrect behaviors.</li>
+
+<li>Our work on software testing is on the design of new testing criteria, such as <a href="https://sites.google.com/site/fieldexhaustivetesting/">Field-exhaustive testing</a>, as well as techniques for automated test generation, which are generally based on the use of formal software specifications.</li>
+
+<li>Our work on tool support for software modeling and analysis, via the development of tools such as <strong><a href="https://dc.exa.unrc.edu.ar/tools/dynalloy-web/">DynAlloy Analyzer</a></strong>, (which provides fully automated analysis for dynamic behavioral specifications over Alloy, using its dynamic-logic based extension DynAlloy) and <strong><a href="http://dc.exa.unrc.edu.ar/tools/cltsa/">Counting Fluent Labelled Transition System Analyzer</a></strong> (which extends LTSA with support for temporal properties that can refer to the number of times certain events have occurred).</li>
+
+<li>Our work on the foundations of Software Engineering, with the development and use of logics for software specification ... </li>
+
+</ul>
+
+<p>Our group is integrated by research staff, postdocs, doctoral and masters students. If you're interested in finding out more about the group, do <a href="mailto:sdg-info@mit.edu">contact us</a>!</p>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mfis-logo-full-removebg-preview.png" style="width: 100px; padding-top: 20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dc-full.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dc-white-bg.png" style="width: 90px; padding-top: 28px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logounrc.png" style="width: 210px">
 </figure>
 
