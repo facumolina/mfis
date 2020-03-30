@@ -26,6 +26,9 @@ permalink: /
 
 </ul>
 
+<p>We tackle research problems in the context of software engineering, using solid scientific and engineering principles, and strongly based on mathematical and logical elements for software construction.
+</p>
+
 <p>Our group is integrated by research staff, postdocs, doctoral and masters students. If you're interested in finding out more about the group, do <a href="mailto:sdg-info@mit.edu">contact us</a>!</p>
 
 <figure class="fourth">
