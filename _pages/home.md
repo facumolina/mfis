@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Welcome to the Formal Methods & Software Engineering group at [DC](http://dc.exa.unrc.edu.ar/) - [UNRC](https://www.unrc.edu.ar/).
+## **Welcome to the Formal Methods & Software Engineering group at [DC](http://dc.exa.unrc.edu.ar/) - [UNRC](https://www.unrc.edu.ar/).**
 
 <p>Our research goal is to contribute to how software is developed, by improving its modeling, design, construction and assessment, through the use of well-founded mechanisms for software specification and analysis. Our research interests include:
 </p>

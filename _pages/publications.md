@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-## Publications
+## **Publications**
 
 <script src="https://bibbase.org/show?bib=https://mfisdc.herokuapp.com/downloads/mfis-pubs.bib&jsonp=1&owner=none"></script>
 <script>
