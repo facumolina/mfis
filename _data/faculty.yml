@@ -1,27 +1,34 @@
 
 - name: Marcelo Arroyo
   photo: marroyo.jpg
-  info: Research Scientist
+  info: Researcher
   email: marcelo.arroyo@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Francisco Bavera
   photo: fbavera.jpg
-  info: Research Scientist
+  info: Researcher
   email: pancho@dc.exa.unrc.edu.ar
   web: https://dc.exa.unrc.edu.ar/staff/fbavera/
   number_educ: 0
 
 - name: Valeria Bengolea
   photo: vbengolea.jpg
-  info: Postdoc
+  info: Researcher
   email: vbengolea@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Franco Brusatti
   photo: fbrusatti.jpg
-  info: Research Scientist
+  info: Researcher
   email: fbrusatti@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Pablo F. Castro
+  photo: pcastro.jpg
+  info: Principal Investigator
+  email: pcastro@dc.exa.unrc.edu.ar
+  web: https://pablofcastro.github.io/
   number_educ: 0
 
 - name: Renzo Degiovanni
@@ -33,20 +40,14 @@
 
 - name: Pablo Ponzio
   photo: defaultmember.jpg
-  info: Research Scientist
+  info: Researcher
   email: pponzio@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Germán Regis
   photo: gregis.jpg
-  info: Research Scientist
+  info: Researcher
   email: gregis@dc.exa.unrc.edu.ar
   number_educ: 0
 
-- name: Gastón Scilingo
-  photo: gscilingo.png
-  info: Research Scientist
-  email: gaston@dc.exa.unrc.edu.ar
-  web: https://dc.exa.unrc.edu.ar/staff/gaston/
-  number_educ: 0
 

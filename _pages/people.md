@@ -6,10 +6,10 @@ sitemap: false
 permalink: /people
 ---
 
-## Head
+## Chair
 
 {% assign number_printed = 0 %}
-{% for member in site.data.head %}
+{% for member in site.data.chair %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -46,10 +46,10 @@ permalink: /people
 </div>
 {% endif %}
 
-## Senior Members
+## Faculty
 
 {% assign number_printed = 0 %}
-{% for member in site.data.senior %}
+{% for member in site.data.faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -96,7 +96,6 @@ permalink: /people
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
@@ -108,9 +107,7 @@ permalink: /people
   {% if member.web %}
   <a href="{{member.web}}" target="_blank">Web</a>
   {% endif %}
-  <ul style="overflow: hidden">
-
-  </ul>
+  <ul style="overflow: hidden"></ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
