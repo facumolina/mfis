@@ -13,7 +13,7 @@ permalink: /tools/
 
 {% for tool in site.data.tools %}
 
-#### [{{tool.name}}]({{tool.web}})
+<h4><a href="{{tool.web}}" target="_blank">{{tool.name}}</a></h4>
 
 <div class="row">
 <div class="col-sm-10 clearfix">

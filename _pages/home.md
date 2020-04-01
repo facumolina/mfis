@@ -18,9 +18,9 @@ permalink: /
 
 <li>Our work on the so-called oracle problem, which concentrates in developing techniques for producing formal software specifications for object oriented systems, targeting the challenge of distinguishing the desired correct behavior of software from potentially incorrect behaviors.</li>
 
-<li>Our work on software testing is on the design of new testing criteria, such as <a href="https://sites.google.com/site/fieldexhaustivetesting/">Field-exhaustive testing</a>, as well as techniques for automated test generation, which are generally based on the use of formal software specifications.</li>
+<li>Our work on software testing is on the design of new testing criteria, such as <a href="https://sites.google.com/site/fieldexhaustivetesting/" target="_blank">Field-exhaustive testing</a>, as well as techniques for automated test generation, which are generally based on the use of formal software specifications.</li>
 
-<li>Our work on tool support for software modeling and analysis, via the development of tools such as <strong><a href="https://dc.exa.unrc.edu.ar/tools/dynalloy-web/">DynAlloy Analyzer</a></strong>, (which provides fully automated analysis for dynamic behavioral specifications over Alloy, using its dynamic-logic based extension DynAlloy) and <strong><a href="http://dc.exa.unrc.edu.ar/tools/cltsa/">Counting Fluent Labelled Transition System Analyzer</a></strong> (which extends LTSA with support for temporal properties that can refer to the number of times certain events have occurred).</li>
+<li>Our work on tool support for software modeling and analysis, via the development of tools such as <strong><a href="https://dc.exa.unrc.edu.ar/tools/dynalloy-web/" target="_blank">DynAlloy Analyzer</a></strong>, (which provides fully automated analysis for dynamic behavioral specifications over Alloy, using its dynamic-logic based extension DynAlloy) and <strong><a href="http://dc.exa.unrc.edu.ar/tools/cltsa/" target="_blank">Counting Fluent Labelled Transition System Analyzer</a></strong> (which extends LTSA with support for temporal properties that can refer to the number of times certain events have occurred).</li>
 
 <li>Our work on the foundations of Software Engineering, with the development and use of logics for software specification, and algorithms for their analysis.</li>
 
