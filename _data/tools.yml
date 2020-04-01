@@ -1,6 +1,7 @@
 - name: CLTSA
   web: http://countingfluents.weebly.com/
   description: "CLTSA (Counting Fluents Labelled Transition System Analyser) is an extension of LTSA (Labelled Transition System Analyser) that incorporates counting fluents, a useful mechanism to capture properties related to counting events. The tool supports a superset of FSP, that allows one to define counting fluents properties, that the tool can also model check."
+  demo: https://youtu.be/To24uAeCt00
   
 - name: DynAlloy Analyzer
   web: https://dc.exa.unrc.edu.ar/tools/dynalloy-web/

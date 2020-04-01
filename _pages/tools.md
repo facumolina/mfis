@@ -18,6 +18,9 @@ permalink: /tools/
 <div class="row">
 <div class="col-sm-10 clearfix">
   <i>{{ tool.description }}<br></i>
+  {% if tool.demo %}
+  <i>Check out the tool <a href="{{tool.demo}}" target="_blank">demo</a>!</i>
+  {% endif %}
   <ul style="overflow: hidden">
   </ul>
 </div>
