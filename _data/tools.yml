@@ -1,9 +1,9 @@
 - name: CLTSA
   web: http://countingfluents.weebly.com/
-  description: "CLTSA (Counting Fluents Labelled Transition System Analyser) is an extension of LTSA (Labelled Transition System Analyser) that incorporates counting fluents, a useful mechanism to capture properties related to counting events. The tool supports a superset of FSP, that allows one to define counting fluents properties, that the tool can also model check."
+  description: "CLTSA (Counting Fluents Labelled Transition System Analyser) is an extension of LTSA (Labelled Transition System Analyser) that incorporates counting fluents, a useful mechanism to capture properties related to counting events. The tool supports a superset of FSP, that allows one to define properties involving counting fluents, which the tool can also model check."
   demo: https://youtu.be/To24uAeCt00
   
 - name: DynAlloy Analyzer
   web: https://dc.exa.unrc.edu.ar/tools/dynalloy-web/
-  description: "A tool for the automated analysis of Dynalloy models. DynAlloy is an extension of the formal specification language Alloy. Alloy is a relatively popular formal specification language because of various reasons, including: it has simple formal semantics, based on relations its syntax is simple, with a few constructs (with intuitive meaning) its specifications follow an OO-like style it is designed with fully automated analysis support in mind Alloy is a model-oriented specification language, similar to other formal languages such as Z, VDM and B. DynAlloy extends Alloy by incorporating the notion of action to better describe state change and properties of state changing situations."
+  description: "A tool for the automated analysis of Dynalloy models. DynAlloy is an extension of the formal specification language Alloy. Alloy is a relatively popular formal specification language because of various reasons, including: it has simple formal semantics, based on relations; its syntax is simple, with a few constructs (with intuitive meaning); its specifications follow an OO-like style; it is designed with fully automated analysis support in mind Alloy is a model-oriented specification language, similar to other formal languages such as Z, VDM and B. DynAlloy extends Alloy by incorporating the notion of action to better describe state change and properties of state changing situations."
 
