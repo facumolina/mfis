@@ -1,19 +1,35 @@
+- title: Analysis and Development of Fault-Tolerant Systems
+  investigator: Pablo Castro
+  funding: Secretary of Science and Technology, University of Rio Cuarto
+
 - title: Applying Automated Analysis Techniques on Software Specifications for Educational Contexts
   investigator: María Marta Novaira
   funding: Ministry of Science and Technology of the Cordoba Province
 
-- title: Analysis and Development of Fault-Tolerant Systems
-  investigator: Pablo Castro
+- title: Automated Analysis of Models of Software using SAT Solving
+  investigator: Marcelo Frias
+  funding: National Agency for the Promotion of Science and Technology (ANPCyT)
+
+- title: Constraint Solving Techniques applied to Software Validation and Verification
+  investigator: Nazareno Aguirre
   funding: Secretary of Science and Technology, University of Rio Cuarto
+  
+- title: Computational Thinking and Teaching Practices in Science
+  investigator: Francisco Bavera
+  funding: Secretary of Science and Technology, University of Rio Cuarto - Ministry of Science and Technology of the Cordoba Province
 
 - title: Developing and Applying Static Analysis Techniques to Software Defect Detection
   investigator: Marcelo Arroyo
   funding: Secretary of Science and Technology, University of Rio Cuarto
 
+- title: Exploiting SAT Solving’s Versatility for an Integral and Effective Automated Software Analysis
+  investigator: Nazareno Aguirre
+  funding: National Agency for the Promotion of Science and Technology (ANPCyT)
+
 - title: Goal-Conflict Analysis on Software Requirements Specifications
   investigator: Renzo Degiovanni
   funding: Ministry of Science and Technology of the Cordoba Province
-  
+
 - title: Modeling and Automated Verification of Concurrent Systems
   investigator: Germán Regis
   funding: Secretary of Science and Technology, University of Rio Cuarto
