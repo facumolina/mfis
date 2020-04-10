@@ -3,7 +3,7 @@ title: "DC - Académica - Ingreso"
 layout: textlay
 excerpt: "Ingreso"
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 ## **Publications**

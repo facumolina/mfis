@@ -3,7 +3,7 @@ title: "MFIS - Tools"
 layout: textlay
 excerpt: "Tools"
 sitemap: false
-permalink: /tools/
+permalink: /tools
 ---
 
 ## **Tools**

@@ -3,7 +3,7 @@ title: "DC - Investigación"
 layout: research
 excerpt: "DC -- Investigación"
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 ## Investigación
