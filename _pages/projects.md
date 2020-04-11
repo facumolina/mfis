@@ -3,7 +3,7 @@ title: "MFIS - Projects"
 layout: textlay
 excerpt: "Projects"
 sitemap: false
-permalink: /projects/
+permalink: /projects
 ---
 
 ## **Research Projects**
