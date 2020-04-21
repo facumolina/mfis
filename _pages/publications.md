@@ -1,14 +1,14 @@
 ---
-title: "DC - Académica - Ingreso"
+title: "MFIS - Publications"
 layout: textlay
-excerpt: "Ingreso"
+excerpt: "Publications"
 sitemap: false
 permalink: /publications
 ---
 
 ## **Publications**
 
-<script src="https://bibbase.org/show?bib=https://mfisdc.herokuapp.com/downloads/mfis-pubs.bib&jsonp=1&owner=none"></script>
+<script src="https://bibbase.org/show?bib=https://mfis.dc.exa.unrc.edu.ar/downloads/mfis-pubs.bib&jsonp=1&owner=none"></script>
 <script>
 <!--//--><![CDATA[// ><!--
 

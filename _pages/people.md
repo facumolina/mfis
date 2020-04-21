@@ -1,5 +1,5 @@
 ---
-title: "MFIS - Team"
+title: "MFIS - People"
 layout: gridlay
 excerpt: "Team"
 sitemap: false
