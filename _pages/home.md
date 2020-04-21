@@ -31,7 +31,7 @@ permalink: /
 <p>We tackle research problems in the context of software engineering, using solid scientific and engineering principles, and strongly based on mathematical and logical elements for software construction.
 </p>
 
-<p>Our group is integrated by research staff, postdocs, doctoral and masters students. If you're interested in finding out more about the group, do <a href="mailto:info-mfis@dc.exa.unrc.edu.ar">contact us</a>!</p>
+<p>Our group is composed of research staff, postdocs, doctoral and masters students. If you're interested in finding out more about the group, do <a href="mailto:info-mfis@dc.exa.unrc.edu.ar">contact us</a>!</p>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mfis-logo-full-removebg-preview.png" style="width: 100px; padding-top: 20px">
