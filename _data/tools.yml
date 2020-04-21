@@ -4,6 +4,6 @@
   demo: https://youtu.be/To24uAeCt00
   
 - name: DynAlloy Analyzer
-  web: https://dc.exa.unrc.edu.ar/tools/dynalloy-web/
+  web: 
   description: "DynAlloy is a formal specification language that extends Alloy (a formal specification language based on first-orded logic and relational operations including transitive closure), by incorporating actions and programs, to  better describe state change and properties of state changing situations. DynAlloy Analyzer is a tool for DynAlloy specification, built over Alloy Analyzer, that supports fully automated and efficient analysis of DynAlloy specifications, resorting to SAT solving."
 
