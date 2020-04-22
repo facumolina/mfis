@@ -20,7 +20,7 @@ permalink: /
 
 <li>Our work on software testing, with the design of new testing criteria, such as <a href="https://sites.google.com/site/fieldexhaustivetesting/" target="_blank">Field-exhaustive testing</a>, as well as techniques for automated test generation, generally based on the use of formal software specifications.</li>
 
-<li>Our work on tool support for software modeling and analysis, via the development of tools such as <strong><a href="https://dc.exa.unrc.edu.ar/tools/dynalloy-web/" target="_blank">DynAlloy Analyzer</a></strong>, (which provides fully automated analysis for dynamic behavioral specifications over Alloy, using its dynamic-logic based extension DynAlloy) and <strong><a href="http://dc.exa.unrc.edu.ar/tools/cltsa/" target="_blank">Counting Fluent Labelled Transition System Analyzer</a></strong> (which extends LTSA with support for temporal properties that can refer to the number of times certain events have occurred).</li>
+<li>Our work on tool support for software modeling and analysis, via the development of tools such as <strong><a href="https://github.com/gregistecco/dynalloy" target="_blank">DynAlloy Analyzer</a></strong>, (which provides fully automated analysis for dynamic behavioral specifications over Alloy, using its dynamic-logic based extension DynAlloy) and <strong><a href="http://dc.exa.unrc.edu.ar/tools/cltsa/" target="_blank">Counting Fluent Labelled Transition System Analyzer</a></strong> (which extends LTSA with support for temporal properties that can refer to the number of times certain events have occurred).</li>
 
 <li>Our work on the foundations of Software Engineering, with the development and use of logics for software specification, and algorithms for their analysis.</li>
 
