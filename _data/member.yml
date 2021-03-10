@@ -12,9 +12,10 @@
   number_educ: 0
 
 - name: Simón Emmanuel Gutiérrez Brida
-  photo: sgutierrez.jpg
+  photo: sgutierrez.png
   info: Postdoc
   email: sgutierrez@dc.exa.unrc.edu.ar
+  web: https://saiema.github.io
   number_educ: 0
 
 - name: Cecilia Kilmurray
