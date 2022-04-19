@@ -1,9 +1,3 @@
-- name: Isaias Battaglia
-  photo: ibattaglia.jpg
-  info: Student
-  email: ibattaglia@dc.exa.unrc.edu.ar
-  number_educ: 0  
-
 - name: César Cornejo
   photo: ccornejo.jpg
   info: PhD student
@@ -20,13 +14,13 @@
 
 - name: Cecilia Kilmurray
   photo: ckilmurray.jpg
-  info: PhD student
+  info: Postdoc
   email: ckilmurray@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Facundo Molina
   photo: fmolina.jpg
-  info: PhD student
+  info: Postdoc
   email: fmolina@dc.exa.unrc.edu.ar
   web: https://facumolina.github.io/
   number_educ: 0
