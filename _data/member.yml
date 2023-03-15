@@ -26,9 +26,10 @@
   number_educ: 0
 
 - name: Agustin Nolasco
-  photo: anolasco.png
+  photo: anolasco.jpeg
   info: Student
   email: nolasco@dc.exa.unrc.edu.ar
+  web: https://agusnolasco.github.io
   number_educ: 0
 
 - name: María Marta Novaira
