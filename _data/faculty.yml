@@ -51,4 +51,28 @@
   email: gregis@dc.exa.unrc.edu.ar
   number_educ: 0
 
+- name: Simón Emmanuel Gutiérrez Brida
+  photo: sgutierrez.png
+  info: Researcher
+  email: sgutierrez@dc.exa.unrc.edu.ar
+  web: https://saiema.github.io
+  number_educ: 0
 
+- name: Cecilia Kilmurray
+  photo: ckilmurray.jpg
+  info: Researcher
+  email: ckilmurray@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Facundo Molina
+  photo: fmolina.jpg
+  info: Researcher
+  email: fmolina@dc.exa.unrc.edu.ar
+  web: https://facumolina.github.io/
+  number_educ: 0
+
+- name: Marcelo Uva
+  photo: defaultmember.jpg
+  info: Researcher
+  email: uva@dc.exa.unrc.edu.ar
+  number_educ: 0

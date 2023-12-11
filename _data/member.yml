@@ -1,35 +1,14 @@
+- name: Agustin Borda
+  photo: defaultmember.jpg
+  info: PhD student
+  email: aborda@dc.exa.unrc.edu.ar
+  number_educ: 0
+
 - name: César Cornejo
   photo: ccornejo.jpg
   info: PhD student
   email: ccornejo@dc.exa.unrc.edu.ar
   web: https://cesarcorne.github.io
-  number_educ: 0
-
-- name: Simón Emmanuel Gutiérrez Brida
-  photo: sgutierrez.png
-  info: Postdoc
-  email: sgutierrez@dc.exa.unrc.edu.ar
-  web: https://saiema.github.io
-  number_educ: 0
-
-- name: Cecilia Kilmurray
-  photo: ckilmurray.jpg
-  info: Postdoc
-  email: ckilmurray@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: Facundo Molina
-  photo: fmolina.jpg
-  info: Postdoc
-  email: fmolina@dc.exa.unrc.edu.ar
-  web: https://facumolina.github.io/
-  number_educ: 0
-
-- name: Agustin Nolasco
-  photo: anolasco.jpeg
-  info: Student
-  email: nolasco@dc.exa.unrc.edu.ar
-  web: https://agusnolasco.github.io
   number_educ: 0
 
 - name: María Marta Novaira
@@ -61,11 +40,6 @@
   photo: gscilingo.png
   info: PhD student
   email: gaston@dc.exa.unrc.edu.ar
-  web: https://dc.exa.unrc.edu.ar/staff/gaston/
+  web: https://gastonscilingo.github.io/
   number_educ: 0
 
-- name: Marcelo Uva
-  photo: defaultmember.jpg
-  info: PhD student
-  email: uva@dc.exa.unrc.edu.ar
-  number_educ: 0
