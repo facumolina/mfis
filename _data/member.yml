@@ -1,14 +1,14 @@
+- name: César Cornejo
+  photo: ccornejo.jpg
+  info: Postdoctoral researcher
+  email: ccornejo@dc.exa.unrc.edu.ar
+  web: https://cesarcorne.github.io
+  number_educ: 0
+
 - name: Agustin Borda
   photo: defaultmember.jpg
   info: PhD student
   email: aborda@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: César Cornejo
-  photo: ccornejo.jpg
-  info: PhD student
-  email: ccornejo@dc.exa.unrc.edu.ar
-  web: https://cesarcorne.github.io
   number_educ: 0
 
 - name: María Marta Novaira
@@ -30,11 +30,6 @@
   web: https://mpolitano.github.io/
   number_educ: 0
 
-- name: Luciano Putruele
-  photo: lputruele.jpg
-  info: PhD student
-  email: lputruele@dc.exa.unrc.edu.ar
-  number_educ: 0
 
 - name: Gastón Scilingo
   photo: gscilingo.png
