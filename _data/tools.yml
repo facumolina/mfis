@@ -7,3 +7,8 @@
   web: https://github.com/gregistecco/dynalloy 
   description: "DynAlloy is a formal specification language that extends Alloy (a formal specification language based on first-orded logic and relational operations including transitive closure), by incorporating actions and programs, to  better describe state change and properties of state changing situations. DynAlloy Analyzer is a tool for DynAlloy specification, built over Alloy Analyzer, that supports fully automated and efficient analysis of DynAlloy specifications, resorting to SAT solving."
   demo: https://youtu.be/bQQ-xq79ucc
+
+- name: BEAPI
+  web: https://github.com/mpolitano/bounded-exhaustive-api
+  description: "BEAPI is an efficient bounded exhaustive test generation tool that employs routines from the API of the software under test for generation. BEAPI solely employs the public methods in the API of a class in order to perform bounded exhaustive input generation for the class, without the need for a formal specification of valid inputs."
+  demo: 
