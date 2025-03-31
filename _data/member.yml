@@ -11,6 +11,18 @@
   email: aborda@dc.exa.unrc.edu.ar
   number_educ: 0
 
+- name: Brenda Dichiara
+  photo: defaultmember.jpg
+  info: PhD student
+  email: bdichiara@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Lucio Mansilla
+  photo: defaultmember.jpg
+  info: PhD student
+  email: lmansilla@dc.exa.unrc.edu.ar
+  number_educ: 0
+
 - name: Agustin Nolasco
   photo: anolasco.jpeg
   info: PhD student
@@ -19,7 +31,7 @@
   number_educ: 0
 
 - name: María Marta Novaira
-  photo: defaultmember.jpg
+  photo: mnovaira.jpeg
   info: PhD student
   email: mnovaira@dc.exa.unrc.edu.ar
   number_educ: 0
@@ -37,7 +49,6 @@
   web: https://mpolitano.github.io/
   number_educ: 0
 
-
 - name: Gastón Scilingo
   photo: gscilingo.png
   info: PhD student
@@ -45,3 +56,8 @@
   web: https://gastonscilingo.github.io/
   number_educ: 0
 
+- name: Nicolás Streri
+  photo: gscilingo.png
+  info: PhD student
+  email: nstreri@dc.exa.unrc.edu.ar
+  number_educ: 0
