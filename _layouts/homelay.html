@@ -6,6 +6,61 @@ layout: default
 	<!--h2>Formal Methods and Software Engineering</h2-->
 	{{ content }}
 </div>
-<div class='col-sm-4' style="border-radius: 20px;border: 2px solid #000000;">
-	<a class="twitter-timeline" data-width="300" data-height="700" href="https://twitter.com/mfisdc?ref_src=twsrc%5Etfw">Tweets by mfisdc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="col-sm-4">
+    <h2>News</h2>
+    <div id="mt-container">
+        <p>Loading news...</p>
+    </div>
+
+    <script>
+    (async function () {
+        const accountId = "117366407988068594";
+        const limit = 5;
+
+        try {
+            const response = await fetch(
+                `https://mastodon.social/api/v1/accounts/${accountId}/statuses?exclude_replies=true&exclude_reblogs=true&limit=${limit}`
+            );
+
+            if (!response.ok)
+                throw new Error("No se pudieron obtener las publicaciones.");
+
+            const posts = await response.json();
+
+            const container = document.getElementById("mt-container");
+            container.innerHTML = "";
+
+            if (posts.length === 0) {
+                container.innerHTML = "<p>There are no news.</p>";
+                return;
+            }
+
+            posts.forEach(post => {
+                const div = document.createElement("div");
+                div.className = "mastodon-post";
+
+                div.innerHTML = `
+                    <div class="mastodon-content">
+                        ${post.content}
+                    </div>
+
+                    <div class="mastodon-footer">
+                        <a href="${post.url}" target="_blank" rel="noopener noreferrer">
+                            ${new Date(post.created_at).toLocaleDateString()}
+                        </a>
+                    </div>
+                `;
+
+                container.appendChild(div);
+            });
+
+        } catch (err) {
+            document.getElementById("mt-container").innerHTML =
+                "<p>News could not be loaded.</p>";
+            console.error(err);
+        }
+    })();
+    </script>
+
 </div>

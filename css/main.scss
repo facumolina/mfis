@@ -200,3 +200,68 @@ that label to make the link more obvious.
 span.bibbase_icon_text {
   display: initial;
 }
+
+/* ===========================
+   Mastodon timeline
+   =========================== */
+
+#mt-container {
+    text-align: left;
+    max-height: 1000px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 8px;
+}
+
+.mastodon-post {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 15px;
+}
+
+.mastodon-post p:last-child {
+    margin-bottom: 0;
+}
+
+.mastodon-post img,
+.mastodon-post video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.mastodon-post a {
+    word-break: break-word;
+}
+
+.mastodon-footer {
+    margin-top: 10px;
+    font-size: 0.85em;
+    color: #777;
+}
+
+.mastodon-footer a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.mastodon-footer a:hover {
+    text-decoration: underline;
+}
+
+.mastodon-content {
+    max-height: 180px;
+    overflow-y: auto;
+}
+
+/* Estilos para HTML generado por Mastodon */
+
+.mastodon-content .invisible {
+    display: none;
+}
+
+.mastodon-content .ellipsis::after {
+    content: "…";
+}
