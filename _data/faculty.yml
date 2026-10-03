@@ -1,8 +1,45 @@
+- name: Pablo F. Castro
+  photo: pcastro.jpg
+  info: Researcher
+  email: pcastro@dc.exa.unrc.edu.ar
+  web: https://pablofcastro.github.io/
+  number_educ: 0
+
+- name: Valentin Cassano
+  photo: defaultmember.jpg 
+  info: Researcher
+  email: vcassano@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Germán Regis
+  photo: gregis.jpg
+  info: Researcher
+  email: gregis@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Pablo Ponzio
+  photo: pponzio.jpg
+  info: Researcher
+  email: pponzio@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Simón Emmanuel Gutiérrez Brida
+  photo: sgutierrez.png
+  info: Researcher
+  email: sgutierrez@dc.exa.unrc.edu.ar
+  web: https://saiema.github.io
+  number_educ: 0
+
+- name: Valeria Bengolea
+  photo: vbengolea.jpg
+  info: Researcher
+  email: vbengolea@dc.exa.unrc.edu.ar
+  number_educ: 0
 
 - name: Marcelo Arroyo
   photo: marroyo.jpg
   info: Researcher
-  email: marcelo.arroyo@dc.exa.unrc.edu.ar
+  email: marroyo@dc.exa.unrc.edu.ar
   web: https://marceloarroyo.gitlab.io/
   number_educ: 0
 
@@ -13,42 +50,10 @@
   web: https://dc.exa.unrc.edu.ar/staff/fbavera/
   number_educ: 0
 
-- name: Valeria Bengolea
-  photo: vbengolea.jpg
+- name: Marcelo Uva
+  photo: muva.jpg
   info: Researcher
-  email: vbengolea@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: Franco Brusatti
-  photo: fbrusatti.jpg
-  info: Researcher
-  email: fbrusatti@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: Pablo F. Castro
-  photo: pcastro.jpg
-  info: Researcher
-  email: pcastro@dc.exa.unrc.edu.ar
-  web: https://pablofcastro.github.io/
-  number_educ: 0
-
-- name: Pablo Ponzio
-  photo: pponzio.jpg
-  info: Researcher
-  email: pponzio@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: Germán Regis
-  photo: gregis.jpg
-  info: Researcher
-  email: gregis@dc.exa.unrc.edu.ar
-  number_educ: 0
-
-- name: Simón Emmanuel Gutiérrez Brida
-  photo: sgutierrez.png
-  info: Researcher
-  email: sgutierrez@dc.exa.unrc.edu.ar
-  web: https://saiema.github.io
+  email: uva@dc.exa.unrc.edu.ar
   number_educ: 0
 
 - name: Cecilia Kilmurray
@@ -57,15 +62,8 @@
   email: ckilmurray@dc.exa.unrc.edu.ar
   number_educ: 0
 
-- name: Facundo Molina
-  photo: fmolina.jpg
+- name: Franco Brusatti
+  photo: fbrusatti.jpg
   info: Researcher
-  email: fmolina@dc.exa.unrc.edu.ar
-  web: https://facumolina.github.io/
-  number_educ: 0
-
-- name: Marcelo Uva
-  photo: muva.jpg
-  info: Researcher
-  email: uva@dc.exa.unrc.edu.ar
+  email: fbrusatti@dc.exa.unrc.edu.ar
   number_educ: 0
